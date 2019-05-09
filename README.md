@@ -4,10 +4,10 @@ Code for Object Following Bot using Pixymon
 - Pixy Follows adnything which is blue in color.
 
 We can uncomment the lines
-`
+```python
 49 //        else
 50 //          state = 0;
 
-`
+```
 
 This was the bot will stop when it reaches the object.
